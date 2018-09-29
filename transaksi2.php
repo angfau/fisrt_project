@@ -4,6 +4,11 @@
 <?php 
 // session_start();
 // include "config/config.php";
+// include "config/config.php";
+// include "config/config.php";
+// include "config/config.php";
+// include "config/config.php";
+// include "config/config.php";
 ?>
 <link rel="stylesheet" type="text/css" href="/money_changer/css/bootstrap.css">
 <link rel="stylesheet" type="text/css" href="/money_changer/css/bootstrap.min.css">
